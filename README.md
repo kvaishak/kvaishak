@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at Zoho as Web Application Developer for an exciting new project
 - 🌱 I’m currently learning Graphql, Gatsby, Python
 - 💬 Ask me about Javascript, Productivity tools 
