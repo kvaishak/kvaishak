@@ -7,10 +7,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   7 hrs 25 mins   ██████████▓░░░░░░░░░░░░░░   42.10 % 
-Java         3 hrs 36 mins   █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-Properties   1 hr 59 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Go           1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Markdown     1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+JavaScript   4 hrs 2 mins    ████████░░░░░░░░░░░░░░░░░   32.23 % 
+Java         2 hrs 32 mins   █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Properties   1 hr 44 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Go           1 hr 16 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Markdown     1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
 ```
 <!--END_SECTION:waka-->
