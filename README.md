@@ -6,8 +6,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   6 hrs 23 mins   ████████████████████░░░░░   80.33 % 
-JavaScript   51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-JSON         42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+TypeScript     3 hrs 30 mins   █████████████▒░░░░░░░░░░░   53.79 % 
+JavaScript     1 hr 52 mins    ███████▒░░░░░░░░░░░░░░░░░   28.76 % 
+JSON           43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+OpenEdge ABL   24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 ```
 <!--END_SECTION:waka-->
