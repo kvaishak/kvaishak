@@ -6,10 +6,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript     4 hrs 10 mins   █████████████▒░░░░░░░░░░░   53.58 % 
-JavaScript     2 hrs 23 mins   ███████▓░░░░░░░░░░░░░░░░░   30.69 % 
-JSON           46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-OpenEdge ABL   24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-Other          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+JavaScript     2 hrs 43 mins   ███████████▒░░░░░░░░░░░░░   45.20 % 
+TypeScript     1 hr 40 mins    ███████░░░░░░░░░░░░░░░░░░   27.86 % 
+JSON           56 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+OpenEdge ABL   24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Other          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 ```
 <!--END_SECTION:waka-->
