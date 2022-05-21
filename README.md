@@ -7,7 +7,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other        32 mins         ████████████░░░░░░░░░░░░░   48.16 %
+JSON         43 mins         ███████████▒░░░░░░░░░░░░░   45.20 %
+Other        42 mins         ███████████░░░░░░░░░░░░░░   44.17 %
 ```
 
 <!--END_SECTION:waka-->
