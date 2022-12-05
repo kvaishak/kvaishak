@@ -4,7 +4,7 @@
 - 💬 Ask me about Javascript, Productivity tools 
 - 📫 How to reach me: [Mail](mailto:kvaishak47@gmail.com) or [twitter](https://twitter.com/kvaish4k)
 
-[![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/kvaishak)](https://peerlist.io/kvaishak)
+
 
 <!--START_SECTION:waka-->
 
