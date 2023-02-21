@@ -11,7 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript     24 mins         ██████████████░░░░░░░░░░░   56.59 %
+OpenEdge ABL   9 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.28 %
+Other          9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.13 %
 ```
 
 <!--END_SECTION:waka-->
