@@ -11,8 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 hrs 58 mins   █████████████████████████   99.92 %
-TSQL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+TypeScript   3 hrs 57 mins   ████████████████████████▒   97.27 %
+Ruby         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+TSQL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
