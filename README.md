@@ -11,9 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     1 hr 12 mins    ███████████████████████░░   91.80 %
-Ruby           6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
-CBM BASIC V2   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+TypeScript     1 hr 3 mins     ██████████████████████▓░░   90.66 %
+Ruby           6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
+CBM BASIC V2   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
