@@ -11,9 +11,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Smarty         48 mins         ████████████████▒░░░░░░░░   65.82 %
-TypeScript     25 mins         ████████▓░░░░░░░░░░░░░░░░   34.14 %
-CBM BASIC V2   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Smarty         48 mins         █████████████████████████   99.94 %
+CBM BASIC V2   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
