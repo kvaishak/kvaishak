@@ -11,9 +11,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 hrs 34 mins   ██████████████████████▒░░   89.39 %
-Smarty       36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+TypeScript   2 hrs 54 mins   ████████████████████▓░░░░   82.56 %
+Smarty       36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.44 %
 ```
 
 <!--END_SECTION:waka-->
