@@ -11,8 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Smarty       11 mins         ███████████████░░░░░░░░░░   59.81 %
-TypeScript   7 mins          ██████████░░░░░░░░░░░░░░░   40.19 %
+Smarty   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
