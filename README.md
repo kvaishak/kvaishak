@@ -5,6 +5,7 @@
 - :writing_hand: Do check out my writings at my [Substack](https://kvaishak.substack.com/).
 - 📫 How to reach me: [Mail](mailto:vaishak.kaippanchery@gmail.com) or [twitter](https://twitter.com/kvaishack).
 
+[![Peerlist](https://github-readme-badge.peerlist.io/api/vaishak)](https://peerlist.io/vaishak)
 
 #### Weekly development breakdown
 
