@@ -12,10 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++        7 mins          ███████████████▒░░░░░░░░░   60.72 %
-Markdown   4 mins          ████████▒░░░░░░░░░░░░░░░░   33.57 %
-JSON       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-CMake      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
