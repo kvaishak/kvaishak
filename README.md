@@ -12,7 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++             57 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.74 %
+TypeScript      49 mins         █████░░░░░░░░░░░░░░░░░░░░   19.39 %
+JSON            42 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
+Markdown        27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+CSS             20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
 ```
 
 <!--END_SECTION:waka-->
