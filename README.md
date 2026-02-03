@@ -12,9 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON       2 mins          ████████████████▓░░░░░░░░   66.15 %
-Markdown   0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.89 %
-YAML       0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
