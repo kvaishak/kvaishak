@@ -10,7 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown      5 hrs 32 mins         ████████████░░░░░░░░░░░░░   47.98 %
+Swift         5 hrs 19 mins         ███████████▓░░░░░░░░░░░░░   46.14 %
+Bash          31 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Git           7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Text          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
