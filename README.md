@@ -5,7 +5,7 @@
 - 📫 How to reach me: [Mail](mailto:vaishak.kaippanchery@gmail.com) or [twitter](https://twitter.com/kvaishark).
 
 
-#### Weekly development breakdown
+<!--#### Weekly development breakdown-->
 
 <!--START_SECTION:waka-->
 
